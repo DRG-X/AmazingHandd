@@ -8,6 +8,11 @@ electronics on your desk. It takes you, in order, from an empty folder to:
 3. *(advanced)* a hand that copies your own hand live through a webcam
    (MediaPipe → MuJoCo inverse kinematics → Rust motor controller, all glued together by dora-rs).
 
+> **Prefer one web page?** [`AmazingHand_Software_Guide.html`](AmazingHand_Software_Guide.html) has
+> the whole tutorial on a single self-contained page, with a chapter sidebar, copy buttons on the
+> code and tick boxes for the checkpoints. GitHub shows HTML files as source, so download it and
+> open it in your browser.
+
 You said you want to **understand and type every file yourself**. Each chapter therefore:
 
 * explains the idea first,
